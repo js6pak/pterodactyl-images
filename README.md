@@ -1,2 +1,2 @@
 # pterodactyl-images
-Images for pterodactyl.io
+Docker images for pterodactyl.io
